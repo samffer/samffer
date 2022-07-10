@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samffer
-- 👀 I’m interested in Java, Javascript, SQL, CSS, HTML
+- 👀 I’m interested in Java, Javascript, SQL, CSS, HTML, SpringBoot, Bootstrap, Angular, React
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any in Java project for beginner
 - 📫 How to reach me Telegram @samffer, samuelferreirait@hotmail.com
